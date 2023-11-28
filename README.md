@@ -8,7 +8,7 @@ This repository is a collection of specialized GPT models, each meticulously des
 
 | Model Name | Version | Description | Link |
 |------------|---------|-------------|------|
-| OA-Python-API | v1.0 | Focused on the OpenAI Python API, utilizing its GitHub repository and documentation for responses. | [Link](https://chat.openai.com/g/g-zkqWy81Wv-oa-python-api-v1-2) |
+| OA-Python-API | v1.2 | Focused on the OpenAI Python API, utilizing its GitHub repository and documentation for responses. | [Link](https://chat.openai.com/g/g-zkqWy81Wv-oa-python-api-v1-2) |
 | Chroma-db | v1.1 | Designed for ChromaDB, leveraging its GitHub repository and documentation. | [Link](https://chat.openai.com/g/g-IWeXmcmsH-chroma-db-v1-1) |
 | FAISS-library | v1.1 | Concentrated on the FAISS library, examining its GitHub repository and documentation. | [Link](https://chat.openai.com/g/g-k73AlaCyK-faiss-library-v1-1) |
 | React-Library | v1.1 | Specializes in React, drawing from its GitHub repository and documentation. | [Link](https://chat.openai.com/g/g-SeGJDT5Gg-react-library-v1-1) |
