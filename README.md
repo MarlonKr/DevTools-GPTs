@@ -2,7 +2,9 @@
 
 _Note: This is a WIP, new GPTs will be added over time and existing GPTs will be maintained individually._
 
-This repository is a collection of specialized GPT models, each meticulously designed to provide detailed and accurate information about different frameworks and libraries. These models leverage the documentation, repository information, Stack Overflow discussions, and (if everything else fails) general web resources to deliver precise responses.
+This repository is a collection of specialized GPT models, each meticulously designed to provide detailed and accurate information about different frameworks and libraries. 
+
+These models leverage the documentation, repository information, Stack Overflow discussions, and (if everything else fails) general web resources to deliver precise responses.
 
 ## GPTs
 
