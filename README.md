@@ -8,7 +8,7 @@ These models leverage the documentation, repository information, Stack Overflow 
 
 ## GPTs
 
-| Model Name | Version | Description | Link |
+| GPT | Version | Description | Link |
 |------------|---------|-------------|------|
 | OA-Python-API | v1.2 | Focused on the OpenAI Python API, utilizing its GitHub repository and documentation for responses. | [Link](https://chat.openai.com/g/g-zkqWy81Wv-oa-python-api-v1-2) |
 | Chroma-db | v1.1 | Designed for ChromaDB, leveraging its GitHub repository and documentation. | [Link](https://chat.openai.com/g/g-IWeXmcmsH-chroma-db-v1-1) |
